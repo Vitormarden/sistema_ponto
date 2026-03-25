@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.PontoFacil" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#6750A4</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
